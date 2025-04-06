@@ -1,0 +1,11 @@
+html{
+    background-color: antiquewhite;
+    color: chocolate;
+}
+body::before{
+    background-color: aquamarine;
+}
+.body{
+    text-align: center;
+    margin:auto;
+}
